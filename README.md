@@ -10,3 +10,5 @@ To visualize the sum of two vectors (in a geometric fashion), imagine them as ly
 There is also a numeric interpretation of vector addition. We can add the corresponding coordinates of each vector. 
 
 In order to visualize vector subtraction, position two vectors as emanating from the same point. What vector would we need to add to the bigger (the more severe or bigger or comparatively magnitudinous?) in order for the sum to be that of the smaller?
+
+And similarly for scalar multiplication. We can "scale" the size of a vector by multiplying by two (in so doing, doubling its length), by multiplying by 1/2 (cutting its length in half), or by multipying by a negative (which would reverse the direction of the vector).
