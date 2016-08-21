@@ -9,8 +9,4 @@ To visualize the sum of two vectors (in a geometric fashion), imagine them as ly
 
 There is also a numeric interpretation of vector addition. We can add the corresponding coordinates of each vector. 
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+In order to visualize vector subtraction, position two vectors as emanating from the same point. What vector would we need to add to the bigger (the more severe or bigger or comparatively magnitudinous?) in order for the sum to be that of the smaller?
