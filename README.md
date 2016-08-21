@@ -20,4 +20,4 @@ The magnitude of v is the square root of the sum of the squares of its coordinat
 
 A unit vector is a vector whose magnitude is 1. A vector's direction can be represented by a unit vector. The process of finding a unit vector pointing in the same direction as a given vector is called "normalization". This normalization process has two steps: 1) find its magnitude. 2) perform a scalar multiplication: multiply v by the number 1/||v||. This scales the vector up or down so that its length becomes 1.
 
-If all the coordinates of a vector is 0, we call that vector the zero vector. This is a vector indicating no change. The magnitude of the zero vector is zero. What happens if we try to normalize the zero vector? We can't divide by zero, so we say that the zero vector has no normalization; the zero vector has no direction.
+If all the coordinates of a vector equal 0, we call that vector the zero vector. This is a vector indicating no change. The magnitude of the zero vector is zero. What happens if we try to normalize the zero vector? We can't divide by zero, so we say that the zero vector has no normalization; the zero vector has no direction.
